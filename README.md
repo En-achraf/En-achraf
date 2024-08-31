@@ -1,33 +1,22 @@
-</p>
-<p align="center">  
-<img src ="[https://giphy.com/embed/5rFwR7z6bX5Pk2m3rQ]">
-</p>
-
-## root:~$ whoami
+## root:~$ acennadi
 >  Software engineer student at [1337](https://1337.ma/en/) \
->  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
-
-
-<p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ael-khni" alt="ael-khni's 42 stats" /></a>
-</p>
-
+>  “If you work hard and enjoy what you are doing and go after your dreams anything is possible.” - Emma McKeon 
 
 
 <pre>
 
-┌──┤ WHOAMI ├─────────▰▰▰
+┌──┤ ACENNADI ├─────────▰▰▰
 │
-├─▣ Software Engineer Student at 1337 Khouribga
-├─▣ From Tetouan Morocco
+├─▣ Software Engineer Student at 1337 Benguerir
+├─▣ From Berrechid Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
+├─▣ Interested in low-level Programming, WebDev, Graphic design.
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/achraf-ennadiri-57905a264/">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/ashrafelkhnissi">Twitter</a>
 ├─◈ <a href="https://www.instagram.com/achrafelkhnissi">Instagram</a>
 ├─◈ Discord: achrafelkhnissi#2244
@@ -42,32 +31,10 @@
 ├─◈ <a href="https://github.com/achrafelkhnissi/ft_printf">ft_printf</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/Born2beRoot">Born2beRoot</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/minitalk">minitalk</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/so_long">so_long</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/push_swap">push_swap</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/Philosophers">Philosophers</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/minishell">minishell</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/cub3d">Cub3D</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/CPP_Modules">CPP_Modules</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/webserv">Webserv</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/ft_transcendence">ft_transcendence</a>
 │
 └───────────────────────────────▰▰▰
 
-
-┌──┤ ALX PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/achrafelkhnissi/alx-checker">alx-checker</a>
-│
-└───────────────────────────────▰▰▰
-
-
-┌──┤ COMMUNITY ├─────────▰▰▰
-│
-├─◈ If you need any help please join our community.
-├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
-│
-└───────────────────────────────▰▰▰
-
+	
 </pre>
 
 --------------
