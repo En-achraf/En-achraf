@@ -17,9 +17,9 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/achraf-ennadiri-57905a264/">LinkedIn</a>
-├─◈ <a href="https://twitter.com/ashrafelkhnissi">Twitter</a>
+├─◈ <a href="https://x.com/En_achraf1">Twitter</a>
 ├─◈ <a href="https://www.instagram.com/achrafelkhnissi">Instagram</a>
-├─◈ Discord: achrafelkhnissi#2244
+├─◈ Discord: achrafennadiri
 │
 └───────────────────────────────▰▰▰
 
@@ -29,8 +29,6 @@
 ├─◈ <a href="https://github.com/achrafelkhnissi/libft">libft</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/get_next_line">get_next_line</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/ft_printf">ft_printf</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/Born2beRoot">Born2beRoot</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/minitalk">minitalk</a>
 │
 └───────────────────────────────▰▰▰
 
