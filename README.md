@@ -18,17 +18,17 @@
 │
 ├─◈ <a href="https://www.linkedin.com/in/achraf-ennadiri-57905a264/">LinkedIn</a>
 ├─◈ <a href="https://x.com/En_achraf1">Twitter</a>
-├─◈ <a href="https://www.instagram.com/achrafelkhnissi">Instagram</a>
+├─◈ <a href="https://www.instagram.com/0ac_raf0/">Instagram</a>
 ├─◈ Discord: achrafennadiri
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021">Piscine 2021</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/libft">libft</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/get_next_line">get_next_line</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/ft_printf">ft_printf</a>
+├─◈ <a href="https://github.com/En-achraf/C-Piscine">Piscine 2024</a>
+├─◈ <a href="https://github.com/En-achraf/C_Cursus/tree/main/lbft">libft</a>
+├─◈ <a href="#">get_next_line</a>
+├─◈ <a href="#">ft_printf</a>
 │
 └───────────────────────────────▰▰▰
 
