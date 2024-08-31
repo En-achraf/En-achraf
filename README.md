@@ -1,6 +1,6 @@
 </p>
 <p align="center">  
-<img src ="[https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif](https://giphy.com/embed/5rFwR7z6bX5Pk2m3rQ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/digital-imposter-1mposter-5rFwR7z6bX5Pk2m3rQ)">
+<img src ="[https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif]">
 </p>
 
 ## root:~$ whoami
