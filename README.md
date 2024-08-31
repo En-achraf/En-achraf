@@ -43,22 +43,22 @@
 	</a>
 	<span> * </span>
     <a href="https://www.linkedin.com/in/achraf-ennadiri-57905a264/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achraf-ennadiri" />
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achraf-ennadiri"/>
     </a>
     <span> * </span>
     <a href="https://www.instagram.com/0ac_raf0/">
-        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/0ac_raf0/&color=1DA1F2" />
+        <img alt="Instagram Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/0ac_raf0/&color=1DA1F2" />
     </a>
 </p>
 
 ---------------
-| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) |
+| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=En-achraf&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/En-achraf?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/En-achraf?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
-	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=achrafelkhnissi&color=8c36db&style=flat&label=visitors" />
-	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/achrafelkhnissi?color=blueviolet" />
-	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/achrafelkhnissi?color=blueviolet" />
+	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=En-achraf&color=8c36db&style=flat&label=visitors" />
+	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/En-achraf?color=blueviolet" />
+	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/En-achraf?color=blueviolet" />
 </p>
 
 ---------------
