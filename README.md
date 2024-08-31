@@ -26,7 +26,7 @@
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/En-achraf/C-Piscine">Piscine 2024</a>
-├─◈ <a href="https://github.com/En-achraf/C_Cursus/tree/main/lbft">libft</a>
+├─◈ <a href="https://github.com/En-achraf/libft">libft</a>
 ├─◈ <a href="#">get_next_line</a>
 ├─◈ <a href="#">ft_printf</a>
 │
