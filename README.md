@@ -52,9 +52,8 @@
 </p>
 
 ---------------
-| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=En-achraf&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/En-achraf?tab=repositories) | [![En-achraf's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=En-achraf&layout=compact&hide_border=true&theme=jolly)](https://github.com/En-achraf?tab=repositories)
+ [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=En-achraf&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/En-achraf?tab=repositories)  [![En-achraf's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=En-achraf&layout=compact&hide_border=true&theme=jolly)](https://github.com/En-achraf?tab=repositories)
 
-|:-:|:-:|
 
 <p align="center">
 	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=En-achraf&color=8c36db&style=flat&label=visitors" />
