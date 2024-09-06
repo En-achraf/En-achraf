@@ -2,6 +2,7 @@
 >  Software engineer student at [1337](https://1337.ma/en/) \
 >  “If you work hard and enjoy what you are doing and go after your dreams anything is possible.” - Emma McKeon 
 
+
 <pre>
 
 ┌──┤ ACENNADI ├─────────▰▰▰
@@ -30,7 +31,6 @@
 ├─◈ <a href="#">ft_printf</a>
 │
 └───────────────────────────────▰▰▰
-
 	
 </pre>
 
@@ -64,5 +64,5 @@
 ---------------
 
 <p align="center">
-    <img src="https://media.giphy.com/media/3o7aD4yW6eFrHTwVik/giphy.gif" alt="Coding" width="300" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFsZHpseGM5bTg1ejFvNmJtZ2x2N3B3NTRnNmVzYWVqcWVyMTVoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Programming GIF" width="480" />
 </p>
