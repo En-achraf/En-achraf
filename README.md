@@ -2,7 +2,6 @@
 >  Software engineer student at [1337](https://1337.ma/en/) \
 >  “If you work hard and enjoy what you are doing and go after your dreams anything is possible.” - Emma McKeon 
 
-
 <pre>
 
 ┌──┤ ACENNADI ├─────────▰▰▰
@@ -52,10 +51,9 @@
 </p>
 
 ---------------
+
 | [![En-achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=En-achraf&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/En-achraf?tab=repositories) | [![En-achraf's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=En-achraf&layout=compact&hide_border=true&theme=jolly)](https://github.com/En-achraf?tab=repositories) |
 |:-:|:-:|
-
-
 
 <p align="center">
 	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=En-achraf&color=8c36db&style=flat&label=visitors" />
@@ -64,3 +62,7 @@
 </p>
 
 ---------------
+
+<p align="center">
+    <img src="https://media.giphy.com/media/3o7aD4yW6eFrHTwVik/giphy.gif" alt="Coding" width="300" />
+</p>
