@@ -37,6 +37,12 @@
 ├─◈ <a href="#">get_next_line</a>
 │
 └───────────────────────────────▰▰▰
+
+┌──┤ My Project ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
+│
+└───────────────────────────────▰▰▰
 	
 </pre>
 
