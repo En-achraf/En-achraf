@@ -34,7 +34,7 @@
 ├─◈ <a href="https://github.com/En-achraf/C-Piscine">Piscine 2024</a>
 ├─◈ <a href="https://github.com/En-achraf/libft">libft</a>
 ├─◈ <a href="https://github.com/En-achraf/ft_printf">ft_printf</a>
-├─◈ <a href="#">get_next_line</a>
+├─◈ <a href="https://github.com/En-achraf/get_next_line">get_next_line</a>
 │
 └───────────────────────────────▰▰▰
 
