@@ -37,7 +37,7 @@
 ├─◈ <a href="https://github.com/En-achraf/get_next_line">get_next_line</a>
 ├─◈ <a href=https://github.com/En-achraf/Born2BeRoot">Born2BeRoot</a>
 ├─◈ <a href="https://github.com/En-achraf/so_long">So_long</a>
-├─◈ <a href="https://github.com/En-achraf/so_long">Minitalk</a>
+├─◈ <a href="https://github.com/En-achraf/minitalk">Minitalk</a>
 │
 └───────────────────────────────▰▰▰
 
