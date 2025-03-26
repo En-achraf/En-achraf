@@ -16,7 +16,7 @@
 ├─▣ Software Engineer Student at 1337 Benguerir
 ├─▣ From Berrechid Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, WebDev, Graphic design.
+├─▣ Interested in low-level Programming, Editor, Graphic design.
 │
 └───────────────────────────────▰▰▰
 
