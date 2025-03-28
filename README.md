@@ -49,7 +49,7 @@
 
 ┌──┤ LEARN FOR A PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/En-achraf/Spy-Tool">C-PRACTICE</a>
+├─◈ <a href="https://github.com/En-achraf/C-practice">C-PRACTICE</a>
 │
 └───────────────────────────────▰▰▰
 	
