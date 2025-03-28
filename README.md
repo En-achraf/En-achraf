@@ -46,6 +46,12 @@
 ├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
 │
 └───────────────────────────────▰▰▰
+
+┌──┤ LEARN FOR A PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/En-achraf/Spy-Tool">C-PRACTICE</a>
+│
+└───────────────────────────────▰▰▰
 	
 </pre>
 
