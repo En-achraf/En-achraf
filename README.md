@@ -46,12 +46,7 @@
 ┌──┤ My Project ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/En-achraf/Spy-Tool">Spy Tool</a>
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ LEARN FOR A PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/En-achraf/C-practice">C-PRACTICE</a>
+├─◈ <a herf="">syscall-reborn</a>
 │
 └───────────────────────────────▰▰▰
 	
