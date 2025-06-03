@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://preview.redd.it/97wpqwc5p5w91.gif?width=640&format=mp4&s=78a43212c244f1b97e450a9bf8e55f70b4000fc9" alt="Programming GIF" width="480" />
+    <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv" alt="Programming GIF" width="480" />
 </p>
 
 ---------------
