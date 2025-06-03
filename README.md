@@ -70,7 +70,7 @@
 
 ---------------
 
-| [![En-achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ac-ennadi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ac-ennadi?tab=repositories) | [![ac-ennadi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&hide_border=true&theme=jolly)](https://github.com/ac-ennadi?tab=repositories) |
+| [![En-achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ac-ennadi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ac-ennadi?tab=repositories) | [![ac-ennadi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&ac-ennadilayout=compact&hide_border=true&theme=jolly)](https://github.com/ac-ennadi?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
