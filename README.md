@@ -70,13 +70,13 @@
 
 ---------------
 
-| [![En-achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ac-ennadi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ac-ennadi?tab=repositories) | [![ac-ennadi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&ac-ennadilayout=compact&hide_border=true&theme=jolly)](https://github.com/ac-ennadi?tab=repositories) |
+| [![ac-ennadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ac-ennadi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ac-ennadi?tab=repositories) | [![ac-ennadi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ac-ennadi&layout=compact&hide_border=true&theme=jolly)](https://github.com/ac-ennadi?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
-	<img alt="achrafennadiri's visitors" src="https://komarev.com/ghpvc/?username=En-achraf&color=8c36db&style=flat&label=visitors" />
-	<img alt="achrafennadiri's followers" src="https://img.shields.io/github/followers/En-achraf?color=blueviolet" />
-	<img alt="achrafennadiri's stars" src="https://img.shields.io/github/stars/En-achraf?color=blueviolet" />
+	<img alt="achrafennadiri's visitors" src="https://komarev.com/ghpvc/?username=ac-ennadi&color=8c36db&style=flat&label=visitors" />
+	<img alt="achrafennadiri's followers" src="https://img.shields.io/github/followers/ac-ennadi?color=blueviolet" />
+	<img alt="achrafennadiri's stars" src="https://img.shields.io/github/stars/ac-ennadi?color=blueviolet" />
 </p>
 
 ---------------
